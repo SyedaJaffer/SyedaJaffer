@@ -1,6 +1,7 @@
-  Hey! welcome to my Github, I am SyedaJaffer
-  Business data analyst with expertise in financial planning and analysis.
-  I am currently pursuing Certfication in Business Data Analytics (IIBA) and would love to collaborate on FP & A Projects.
+Greetings and welcome to my Github page. I am SyedaJaffer, a business data analyst with a specialization in financial planning and analysis. Currently, I am pursuing certification in Business Data Analytics (IIBA) and I am keen on collaborating with professionals on FP&A projects.
+
+Thank you for taking the time to visit my profile. Please do not hesitate to reach out to me if you would like to discuss potential collaborations or have any questions.
+
   
 
 <!---
